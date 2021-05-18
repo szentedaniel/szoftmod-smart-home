@@ -1,0 +1,1 @@
+# szoftmod-smart-home
